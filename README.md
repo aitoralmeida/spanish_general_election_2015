@@ -63,5 +63,5 @@ The tweet_id and the username can be used to recover the tweet content, and the 
 Please, use the following reference if you use this dataset for your research:
 
 Aitor Almeida, Pablo Orduña, Aritz Bilbao. 
-Party and candidate tweets for the campaing period of the 2015 spanish general election. 
+Party and candidate tweets for the campaign period of the 2015 spanish general election. 
 URL: https://github.com/aitoralmeida/spanish_general_election_2015/
