@@ -5,7 +5,7 @@ The 2015 Spanish general election was held on Sunday, 20 December 2015, to elect
 
 ## Format
 
-The is formatted with a tweet per line, each line with the following fields separated by commas:
+The file is formatted with a tweet per line, each line with the following fields separated by commas:
 
 ```
 tweet_id, username, md5_hash
