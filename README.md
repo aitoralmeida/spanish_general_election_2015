@@ -1,4 +1,4 @@
-# Political party and candidate tweets for the campaing period of the 2015 Spanish general election
+# Political party and candidate tweets for the campaign period of the 2015 Spanish general election
 This dataset contains the political party and candidate tweets for the campaing period (4th to 18th of December) of the 2015 Spanish general election (https://en.wikipedia.org/wiki/Spanish_general_election,_2015).
 
 The 2015 Spanish general election was held on Sunday, 20 December 2015, to elect the 11th Cortes Generales of Spain. All 350 seats in the Congress of Deputies were up for election, as well as 208 of 266 seats in the Senate.
