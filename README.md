@@ -65,3 +65,8 @@ Please, use the following reference if you use this dataset for your research:
 Aitor Almeida, Pablo Orduña, Aritz Bilbao. 
 Party and candidate tweets for the campaign period of the 2015 spanish general election. 
 URL: https://github.com/aitoralmeida/spanish_general_election_2015/
+
+## Other datasets
+
+Take a look at our other datasets:
+*  Political party and candidate tweets for the campaign period of the 2016 Spanish general election: https://github.com/aitoralmeida/spanish_general_election_2016
